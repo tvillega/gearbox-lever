@@ -1,4 +1,4 @@
-# Gearbox Ratio
+![logo](logo.png)
 
 Terminal utility to manage Transmission BitTorrent Client.
 
